@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "sample": true,
+    "lesson": "دورة الماء",
+    "total_sample_questions": 10
+  },
+  "questions": [
+    {
+      "id": "wc_mc_001",
+      "lesson_id": "water_cycle",
+      "type": "multiple_choice",
+      "difficulty": "basic",
+      "bloom_level": "remember",
+      "question": "تحول الماء من الحالة السائلة إلى الحالة الغازية يسمى:",
+      "options": [
+        "التبخر",
+        "التكاثف",
+        "الهطول",
+        "التجمد"
+      ],
+      "correct_answer": 0,
+      "explanation": "التبخر هو تحول الماء من الحالة السائلة إلى الحالة الغازية (بخار الماء) بفعل الحرارة."
+    },
+    {
+      "id": "wc_tf_001",
+      "lesson_id": "water_cycle",
+      "type": "true_false",
+      "difficulty": "basic",
+      "bloom_level": "remember",
+      "question": "بخار الماء غير مرئي بالعين المجردة.",
+      "correct_answer": false,
+      "explanation": "خطأ. بخار الماء شفاف وغير مرئي."
+    },
+    {
+      "id": "wc_fb_001",
+      "lesson_id": "water_cycle",
+      "type": "fill_blank",
+      "difficulty": "basic",
+      "bloom_level": "remember",
+      "question": "التبخر هو تحول الماء من حالة ________ إلى حالة غازية.",
+      "correct_answer": "سائلة",
+      "explanation": "التبخر يحول الماء من الحالة السائلة إلى بخار ماء (غاز)."
+    },
+    {
+      "id": "wc_es_001",
+      "lesson_id": "water_cycle",
+      "type": "essay",
+      "difficulty": "basic",
+      "bloom_level": "understand",
+      "question": "اذكر مراحل دورة الماء الرئيسية الثلاث.",
+      "model_answer": "مراحل دورة الماء الرئيسية هي: التبخر (تحول الماء إلى بخار)، والتكاثف (تكون السحب)، والهطول (سقوط المطر أو الثلج).",
+      "rubric": {
+        "excellent": "ذكر المراحل الثلاث بشكل صحيح مع شرح مختصر",
+        "good": "ذكر المراحل الثلاث بشكل صحيح",
+        "acceptable": "ذكر مرحلتين فقط",
+        "needs_improvement": "ذكر مرحلة واحدة أو لم يذكر أي مرحلة"
+      }
+    },
+    {
+      "id": "wc_mc_002",
+      "lesson_id": "water_cycle",
+      "type": "multiple_choice",
+      "difficulty": "intermediate",
+      "bloom_level": "understand",
+      "question": "المصدر الرئيسي للطاقة التي تسبب التبخر هو:",
+      "options": [
+        "الرياح",
+        "الشمس",
+        "القمر",
+        "الأرض"
+      ],
+      "correct_answer": 1,
+      "explanation": "الشمس هي المصدر الرئيسي للطاقة التي تسخن الماء وتسبب التبخر."
+    },
+    {
+      "id": "wc_tf_002",
+      "lesson_id": "water_cycle",
+      "type": "true_false",
+      "difficulty": "intermediate",
+      "bloom_level": "understand",
+      "question": "كلما ارتفع بخار الماء في الجو، ازدادت حرارته.",
+      "correct_answer": false,
+      "explanation": "خطأ. كلما ارتفع بخار الماء، انخفضت حرارته."
+    },
+    {
+      "id": "wc_fb_002",
+      "lesson_id": "water_cycle",
+      "type": "fill_blank",
+      "difficulty": "intermediate",
+      "bloom_level": "understand",
+      "question": "عندما يرتفع بخار الماء ويبرد، يتكاثف ويكون ________.",
+      "correct_answer": "السحب",
+      "alternative_answers": [
+        "الغيوم"
+      ],
+      "explanation": "عندما يبرد بخار الماء ويتكاثف، يكون السحب (الغيوم)."
+    },
+    {
+      "id": "wc_es_002",
+      "lesson_id": "water_cycle",
+      "type": "essay",
+      "difficulty": "intermediate",
+      "bloom_level": "understand",
+      "question": "اشرح كيف يحدث التبخر.",
+      "model_answer": "يحدث التبخر عندما تسخن الشمس الماء في البحار والأنهار والبحيرات، فيتحول الماء من حالة سائلة إلى بخار ماء غير مرئي، يرتفع إلى الجو.",
+      "rubric": {
+        "excellent": "شرح كامل يتضمن: دور الشمس + التحول من سائل إلى غاز + الارتفاع",
+        "good": "شرح يتضمن عنصرين من الثلاثة",
+        "acceptable": "شرح يتضمن عنصراً واحداً",
+        "needs_improvement": "شرح غير واضح أو خاطئ"
+      }
+    },
+    {
+      "id": "wc_mc_003",
+      "lesson_id": "water_cycle",
+      "type": "multiple_choice",
+      "difficulty": "enrichment",
+      "bloom_level": "analyze",
+      "question": "لماذا لا تنفد كمية الماء على الأرض رغم الاستهلاك المستمر؟",
+      "options": [
+        "لأن الماء يأتي من الفضاء",
+        "بسبب دورة الماء المستمرة",
+        "لأن الماء يتكاثر تلقائياً",
+        "بسبب ذوبان الجليد فقط"
+      ],
+      "correct_answer": 1,
+      "explanation": "كمية الماء ثابتة على الأرض بسبب دورة الماء المستمرة التي تعيد توزيع الماء بين الأرض والجو."
+    },
+    {
+      "id": "wc_es_003",
+      "lesson_id": "water_cycle",
+      "type": "essay",
+      "difficulty": "enrichment",
+      "bloom_level": "apply",
+      "question": "صف تجربة بسيطة توضح التبخر.",
+      "model_answer": "نضع كمية من الماء في صحن مكشوف ونضع علامة على مستوى الماء. ثم نتركه في الشمس لمدة يوم. سنلاحظ أن مستوى الماء انخفض بسبب التبخر.",
+      "rubric": {
+        "excellent": "وصف كامل للتجربة: المواد + الخطوات + النتيجة المتوقعة",
+        "good": "وصف يتضمن المواد والخطوات",
+        "acceptable": "وصف بسيط للتجربة",
+        "needs_improvement": "وصف غير واضح أو غير عملي"
+      }
+    }
+  ]
+}
